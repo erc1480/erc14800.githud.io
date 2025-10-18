@@ -1,0 +1,35 @@
+/* Imagines */
+img{width: 250px;
+height: 150px;}
+#vol{width: 500px;
+height: 400px;}
+#sig{width: 400px;
+height: 300px;}
+#saludo{width: 175px;
+height: 300px;}
+#comba{width: 600px;
+height: 350px;}
+#bandera{width: 500px;
+height: 400px;}
+/* Tablas */
+td,th{border: 2px solid;}
+table{width: 30%;
+text-align: center;
+margin: auto;}
+/* Movimiento de la pagina */
+html{
+     scroll-behavior: smooth;}
+     /* link */
+a{text-decoration: none;
+font-size: large;}
+a:hover{color: rgb(255, 254, 254);
+background: rgb(65, 68, 71);}
+body{text-align: left;
+}
+/* Titulos (h) */
+#inic{text-align: center;}
+
+
+
+
+
