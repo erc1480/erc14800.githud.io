@@ -1,35 +1,57 @@
 /* Imagines */
 img{width: 250px;
 height: 150px;}
-#vol{width: 500px;
+
+#vol{width: 600px;
+height: 430px;}
+
+#sig{width: 600px;
 height: 400px;}
-#sig{width: 400px;
-height: 300px;}
+
 #saludo{width: 175px;
 height: 300px;}
+
 #comba{width: 600px;
-height: 350px;}
-#bandera{width: 500px;
+height: 300px;}
+
+#bandera{width: 600px;
 height: 400px;}
+
+#tanprin{width: 600px;
+height: 400px;}
+
+#prin{width: 750px;
+height: 1px;}
+
 /* Tablas */
-td,th{border: 2px solid;}
+th{border: 2px solid;}
+
 table{width: 30%;
 text-align: center;
 margin: auto;}
+
 /* Movimiento de la pagina */
 html{
      scroll-behavior: smooth;}
+
      /* link */
 a{text-decoration: none;
 font-size: large;}
+
 a:hover{color: rgb(255, 254, 254);
 background: rgb(65, 68, 71);}
-body{text-align: left;
-}
+
+body{text-align: left;}
+
 /* Titulos (h) */
 #inic{text-align: center;}
 
+h1{text-align: center;}
 
-
-
-
+form{
+    margin: 0 auto;
+    width: 600px;
+    padding: 5em;
+    border: 1px solid rgb(167, 167, 167);
+    border-radius: 1em;
+    background: rgb(195, 202, 195); }
