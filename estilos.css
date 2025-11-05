@@ -26,9 +26,10 @@ height: 1px;}
 /* Tablas */
 th{border: 2px solid;}
 
-table{width: 30%;
+table{width: 70%;
 text-align: center;
 margin: auto;}
+
 
 /* Movimiento de la pagina */
 html{
@@ -44,7 +45,8 @@ background: rgb(65, 68, 71);}
 body{text-align: left;}
 
 /* Titulos (h) */
-#inic{text-align: center;}
+#inic{text-align: center;
+}
 
 h1{text-align: center;}
 
@@ -55,3 +57,12 @@ form{
     border: 1px solid rgb(167, 167, 167);
     border-radius: 1em;
     background: rgb(195, 202, 195); }
+
+#inifor{margin: 0 auto;
+    width: 700px;
+    padding: 1em;
+    border: 1px solid rgb(167, 167, 167);
+    border-radius: 1em;
+    background: rgb(195, 202, 195); 
+
+}
